@@ -19,6 +19,9 @@
   "dependencies": {
     "i": "^0.3.7",
     "npm": "^10.9.0",
-    "ua-parser-js": "^1.0.39"
+    "ua-parser-js": "^1.0.39",
+    "crypto-js": "^4.2.0",
+		"random-word-slugs": "^0.1.7",
+		"uuid": "^9.0.1"
   }
 }
